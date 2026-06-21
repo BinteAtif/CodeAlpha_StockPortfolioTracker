@@ -1,6 +1,6 @@
 ## Name = Aasiyah Ali Syed
 ## Internship = CodeAlpha
-## ✅TASK 2: Stock Portfolio Tracker 
+## ✅TASK 1: Stock Portfolio Tracker 
 ## ● Goal: Build a simple stock tracker that calculates total investment based on manually defined stock 
 prices. 
 ## ● Simplified Scope: 
